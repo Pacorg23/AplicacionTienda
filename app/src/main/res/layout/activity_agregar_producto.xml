@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="bottom"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    tools:context=".AgregarProducto">
+
+    <EditText
+        android:id="@+id/Nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:hint="@string/hint_Nombre"
+        android:inputType="textPersonName"
+        android:textSize="34sp" />
+
+    <EditText
+        android:id="@+id/CDB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_CDB"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textSize="34sp"
+        android:layout_weight="1"/>
+
+    <EditText
+        android:id="@+id/Precio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_Precio"
+        android:inputType="numberDecimal"
+        android:minHeight="48dp"
+        android:textSize="34sp"
+        android:layout_weight="1"/>
+
+    <EditText
+        android:id="@+id/Costo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hitn_Costo"
+        android:inputType="numberDecimal"
+        android:minHeight="48dp"
+        android:textSize="34sp"
+        android:layout_weight="1"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="añadirProducto"
+            android:text="@string/Agregar"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/boton_Cancelar"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,476 @@
+
+< conejito turin > 756774011567 10
+< larin avellanas > 7501059299429 10
+< carlos 5to semiamargo > 7501059299252 7.5
+< carlos v 2 piezas > 7501058638113 10
+< carlos 5to 2 en 1 > 7501058638113 10
+< Roma 250gr > 7501026004629 9.50
+< papel petalo 300 > 7501943412217 20
+< kolaloka liquida 2g > 7501102610003 24
+< sal la fina 1kg > 034587030013 18
+< knor suiza 3x10 > 7501005180306 5
+< cajetilla malboro ruby 20 > 75068783 70
+< cajetillas malboro 20 > 75001322 70 
+< cajetilla chesterfield 15 > 75067823 44
+< cajetilla chesterfield 25 > 75067854 63
+< veladora limonero fino > 7503003924517 28
+< crema alpura 250 > 7501055909520 16
+< crema alpura 450 > 7501055909537 32
+< mantequilla iberia 90 > 8719200450615 11
+< nutri leche 1L >7501020540666 17.50
+< leche deslactosada alpura 1L > 7501055901425 24
+< leche alpura chocolate > 7501055900060 25
+< frijoles isadora bayos refritos 430 > 7501071307782 17
+< frijoles la costeña bayos refritos 580gr > 7501017004270 16
+< boing 250ml > 75001773 6
+< boing 250ml > 75001759 6
+< boing 250ml > 75001797 6
+< boing 250ml > 75001834 6
+< boing 500ml > 75003135 10
+< boing 500ml > 75003159 10
+< boing 500ml > 75003104 10
+< boing 500ml > 75003180 10
+< boing 1L > 7501039400814 20
+< boing 1L > 7501039400838 20
+< boing 1L > 7501039400807 20
+< colgate triple accion 75ml > 7509546000985 21
+< jabon zest 150 > 7506306238336 11.50
+< saba nocturna 8 toallas > 7501019006623 25
+< jamon pavo barca 1kg > 108
+< salchichas Pavo fud > 7501040009761 23
+< salchichas Viena fud > 7501040009754 14
+< cloralex 500ml > 75000608 8
+< cloralex 950ml > 75000615 14
+< servilleta petalo 100pz > 7501007704302 12.50
+< servilleta petalo 200pz > 7506425616015 29
+< leche clasica alpura > 7501055900039 22.50
+< leche alpura vainilla >  7501055900084 26
+< nutri leche deslactosada 1L > 750102054 17.50
+< nutri leche deslactosada > 7501020544398 18.5
+< nutri leche 2L > 7501020556001 33
+< carnation clavel 360gr > 7501058611062 17.00
+< amper > 7506192507349 15
+< chetos > 7501011143999 10
+< atun agua > 7501045403915 19
+< atun aceite > 7501045403908 19
+< jalapeños la costeña 220gr > 7501017005000 10.50
+< jalapeños la costeña 380gr > 7501017004003 17.50
+< ensalada de verduras la costeña 410gr > 7501017004157 15.00
+< papel aluminio fun fun 5m > 7503021589101 15
+< papel aluminio reynolds 25ft > 010900000406 34
+< hot cakes gamesa 850gr > 7501761869156 35.00
+< hot cakes pronto 350gr > 7501200483127 15.00
+< arroz S.o.S 1kg > 7501111105033 32
+< mi arroz blanco knor 12gr > 75049256 6
+< mi arroz rojo knor 12gr > 75049232 6
+< caldo de pollo knor 88gr > 7506306313057 10
+< rikopollo 3cubos > 7506192505802 5
+< tajin 142gr > 633148100013 28.50
+< gelatina Dgari 120gr > 735257002643 10
+< gelatina Dgari 120gr > 735257002636 10
+< gelatina Dgari 120gr > 735257002490 10
+< gelatina Dgari 120gr > 735257002629 10
+< gelatina Dgari 120gr > 735257002469 10
+< gelatina Dgari 120gr > 735257002582 10
+< gelatina Dgari 120gr > 735257002551 10
+< gelatina Dgari 120gr > 735257002520 10 
+< gelatina Dgari 120gr > 735257002681 10
+< gelatina Dgari 120gr > 735257002506 10
+< Té de manzanilla mccormick 25sobres > 7501003339133 18.50
+< Té de limon mccormick 25sobres > 7501003339355 18.50
+< chicharos clemente jacques 420gr > 7501052471013 12.50
+< ensalada de verduras clemente jacques 220gr > 7501052471068 9.50
+< chiles serranos 250gr > 7501017005017 10.50
+< Salsa Herdez 240gr > 7501003103703 19.50
+< Salsa Herdez 240gr > 7501003103703 19.50
+< Salsa chile habaero Herdez 240gr > 7501003100122 19.50
+< Salsa verde Normal Herdez 240gr > 7501003127600 19.50
+< chocolate ibarra 90gr > 7501014300016 11.00
+< chocolate abuelita caja > 7501073411173
+< chocolate abuelita barra > 7501001656454 11
+< chicharos con zanahoria herdez 225gr > 7501003124166 9.50
+< granos de elotes herdez 220gr > 7501003124234 10.50 
+< granos de elotes herdez 400gr > 7501003124241 16.00
+< chicharos con zanahoria herdez 400gr > 7501003124180 15.00
+< champiñones rebanados herdez 186gr > 7501003123213 19.50
+< ensalada de legumbres herdez 220gr > 7501003124333 9.50
+< chipotles la costeña 105gr > 7501017006021 12
+< chipotle la costeña 220gr > 7501017005031 23
+< Chipotles san marcos 100gr > 7501023318057 11
+< Chipotles san marcos 215gr > 7501023318040 20.50
+< Salsa chipotle san marcos 215gr > 7501023348047 12
+< Chipotles san marcos 290gr > 7501023318088 25
+< Avena 3 minutos 380gr > 7500478019069 17.50
+< Avena 3 minutos 250gr > 7500478019069? 13.50
+< maizena 150gr > 7501005110389 18
+< maizena 95gr >7501005110242 10.50
+< atole pronto 47gr > 7501200487408 6.50
+< gel extreme  >7501199416168 15
+< gel dany > 7
+< Coffe mate 4 gr > 1
+< Coffe mate 34gr > 7501000913282 6.50
+< Coffe mate 160gr >
+< lechera Nestle 387gr >  7501058617873 24.00
+< rajas costeña 105gr > 7501017006014 7.50
+< rajas costeñan 220gr > 7501017005024 13.50
+< rajas costeña 380gr > 7501017004027 24
+< aceite sabrosano 315ml  >7501039121740 12.50
+< aceite nutriole 800ml > 7501039122846 33
+< valentina negra 370ml > 097339000061 13
+< valentina amarilla 370ml > 097339000054 14
+< corn flakes original 150gr > 7501008101049 19.50
+< corn pops 100gr > 7501008004715 16.50
+< froot loops 100gr > 7501008004661 16.50
+< choco krispis 90gr > 7501008004647 16.50
+< zucaritas 125gr > 7501008006788 16.50
+< zucaritas 260gr > 7501008042984 29.50
+< choco krispis 290gr > 7501008018125 34.50
+< zest aqua > 7506306238336 11.50
+< bonafont 1L > 758104100422 10
+< malboro 14pz > 75001339 49
+< montana 25 > 58
+< montana 15 > 39
+< sopa moderna > 7501018310240 6.50
+< sopa moderna > 7501018310028 6.50
+< sopa moderna > 7501018310752 6.50
+< sopa moderna > 7501018310530 6.50
+< sopa moderna > 7501018310585 6.50
+< sopa moderna > 7501018310608 6.50
+< sopa moderna > 7501018310561 6.50
+< sopa moderna > 7501018310318 6.50
+< sopa moderna > 7501018310233 6.50
+< sopa moderna > 7501018310523 6.50
+< sopa moderna > 7501018310097 6.50
+< sopa moderna > 7501018310547 6.50
+< sopa moderna > 7501018310103 6.50
+< jugo bida 1L > 7501013196061 15
+< nescafe 28gr > 7501000912612 18.50
+< nescafe 42gr > 7501000912803 27.50
+< nescafe capuchino 20g > 7501058629128 8.50
+< nescafe 14g > 7501000911783 10
+< nescafe decaf 14g > 7501000911790 10 
+< nescafe decaf 40g > 7501058628466 24.50
+< chesterfield 15pz > 75067823 39 
+< chesterfield 25pz > 75067854 58
+< gerber 100gr > 75003456 10.00
+< gerber 100gr > 7506475102483 10.00
+< gerber 100gr > 75003425 10.00
+< gerber 100gr > 75003463 10.00
+< gerber 100gr > 7506475102452 10.00
+< gerber 100gr > 7506475102476 10.00
+< gerber 113gr > 75003456 12.50
+< gerber 113gr > 75003425 12.507
+< boing vidrio 354ml > 12.50
+< mayonesa 190gr > 7501003340122 19
+< rastrillo bick 2 hojas > 070330724341 9.50
+< roma 500gr > 7501026004612 17.50
+< Roma 1kg > 33   
+< yakult > 7501025511036 7
+< ensalada costeña 410gr > 7501017004157 15
+< maiz pozolero charras > 756702135143 30
+< maizena de sabor fresa > 7501005106801 8
+< maizena de sabor chocolate > 7501005107013 8
+< maizena de sabor vainilla > 7501005106979 8
+< plato pozolero 20pz > 7501431263208 14
+< tostadas pachis > 7503010694441 26
+< tostadas charras 250gr > 7503027158035 26
+< tostadas milparreal 27p > 7501030676737 24.00
+< pan tostado clasico > 7501000111800 27
+< pan tostado integral > 7501030491668 29
+< pan tostado doble fibra > 7501000112333 29
+< cajetilla pall mall 20 > 75071776 40
+< cajetilla link 20 > 7502252634116 30
+< cajetilla pall mall alaska 20 > 75071295 59
+< cajetilla pall mall tokio 20 > 75052836 59
+< cajetilla pall mall california 20 > 75069490 59
+< cajetilla pall mall mikono (pepino) 20 > 75064648 59
+< cajetilla malboro 14 > 75001339 41
+< cajetilla shots 15 > 75064747 39
+< cajetilla shots 25 > 75064754 58
+< cajetilla maypole 20 > 680701440369 66
+< cajetilla camel natural flavor 20 > 7503023959148 59
+< cajetilla camel capsulas 20 > 7503023959117 59
+< cajetilla camel shift 20 > 7503023959209 59
+< cajetilla winston 25 > 4033100094316 58
+< cajetilla winston capsulas 20 > 7503023959162 53
+< cajetilla winston capsulas 20 > 4033100076428 59
+< cajetilla LD 20 > 7503023959223 37
+< axion liquido 280ml > 75045838 15
+< axion liquido 400ml > 7509546017143 18.50
+< axion liquido 525ml > 7509546067704 29
+< gel ego 250ml > 7506192500555 18
+< harina de trigo la moderna 1kg > 7501018316006 16.50
+< harina mazeca 1kg > 7501077400050 16.50
+< harina de arroz 250gr > 7501069210766 12.50
+< harina de arroz 500gr > 7501069210759 21.00
+< harina de trigo tres estrellas > 7501069210032 19.00
+< sal sol 1kg > 7501118392108 14
+< palomitas act2 > 7501006559026 12.50
+< palomitas act2 > 7501006559019 12.50
+< charola fun 66 > 7501431203297 18
+< kinder sorpresa > 80051121 21
+< kinder sorpresa > 80135692 21
+< kinder sorpresa > 80892816 21
+< kinder sorpresa > 80741251 21
+< pelon pelo rico > 719886211713 6
+< lucas polvos > 725181185017 6
+< lucas > 7502226815053 7
+< lucas > 7506174513894 7
+< lucas > 7502226815022 7
+< lucas > 7502226815145 7
+< lucas > 725181389019 7
+< lucas >  725181035015 7
+< encendedor bic chico > 3086126788722 10
+< encendedor bic grande >  3086123397859 15
+< frijoles la costeña enetero bayo 560gr > 17501017004362 14
+< frijoles la costeña negros refritos 580gr > 7501017004423 15
+< frijoles isadora negros refritos 516 > 7501052420165 15
+< frijoles la sierra negros enteros 560gr > 7501052424606 15
+< frijoles la sierra enteros bayos 560gr > 7501052424613 14
+< frijoles la sierra charros enteros 560gr > 7501052424620 16
+< frijol negro americano granel > 32
+< frijol flor de mayo granel > 40
+< frijol pinto granel > 32
+< canela ali guma > 614143473432 6
+< canela iet > 7503018122168 7
+< vaquitas > 7501055909575 9.50
+< vaquitas > 7501055909599 9.50
+< vaquitas > 7501055909582 9.50
+< suavitel complete 800ml > 7509546067513 26.50
+< suavitel complete 450ml > 7509546044408 20
+< suavitel complete 300ml > 7509546077895 12
+< suerox > 650240032295 20
+< suerox > 650240032257 20
+< suerox > 650240032264 20
+< vaso reyna No8 > 7502208800077 21
+< vaso termico n10 > 12.50
+< sardina 425g > 7501045403281 33.50
+< servilleta voge 100pz > 7506425602780 9
+< raid casa y jardin 400ml > 7501032925956 54
+< savile crema para peinar 100ml > 7506306213524 10
+< vanish liquido 450ml > 7501058752772 26
+< downy concentrado 800ml > 7506339394917 26
+< ensueño frescura primaveral 850ml > 7501025413019 21.50
+< ensueño frescura primaveral 360ml > 7501025443672 10
+< ensueño fresco verano 850ml > 7501025414030
+< ensueño sensacion natural 850ml > 7501025414108
+< pringles 37gr > 038000846731 16
+< fabuloso 500ml > 75001162 14
+< fabuloso 1L > 7501035910096 23.50
+< fabuloso 1L > 7501035910034 23.50
+< fabuloso 1L > 7501035910041 23.50
+< colorfield kiwi 60ml > 7501032940102 12.50
+< chocoretas 50gr > 757528039073 12
+< almendras con chocolate 30gr > 757528039240 12
+< gomilocas pingüinos 55gr > 757528039103 12
+< panditas acidos 52.5gr > 757528039141 12
+< gomilocas hamburguesas 56gr > 757528039257 12
+< panditas rellenos 54gr > 757528039172 12
+< moritas 56gr > 757528039127 12
+< gomilocas dientes 55gr > 757528039097 12
+< dulcigomas 59.5gr > 757528039080 12
+< panditas enchilados 52.5gr > 757528039158 12
+< krankys 50gr > 757528039110
+< panditas rojos 52.5gr > 757528039189 12
+< pasitas 50gr > 757528039196 12
+< panditas 52.5gr > 757528039134 12
+< lunetas 55.gr > 757528033330 12
+< m&m 30gr > 04056704 30
+< milkiway 48gr > 7506174512200 14
+< nikolo original 21gr > 7500443001181 5
+< nikolo fresa 21gr > 7500443004106 5
+< Bubbaloo xtreme 5.6gr > 7501056900168 5
+< Bubbaloo xtreme 5.6gr > 7501056900151 5
+< Bubbaloo xtreme 5.6gr > 7501056903190 5
+< Bubbaloo paleta 5.6gr > 7622210581686 2
+< Bubbaloo paleta 5.6gr > 759686264687 2
+< Bubbaloo paleta 5.6gr > 759686063686 2
+< Bubbaloo paleta 5.6gr > 759686843684 2
+< Bubbaloo paleta 5.6gr > 2524030374613 2
+< Bubbaloo paleta 5.6gr > 7503030374552 2
+< tic tak > 78603752 8.50
+< tic tak > 80863496 8.50 
+< tic tak > 78603769 8.50
+< trident 30.6gr > 7506105606060 17
+< trident 30.6gr > 7622210973436 17
+< trident 30.6gr > 7506105606077 17
+< trident 30.6gr > 7506105606053 17
+< ferrero rocher 8 piezas > 7861002900117  75
+< Bubbaloo mega > 7622210589200 10
+< Bubbaloo mega > 7622210589194 10
+< paleta payaso > 750100278404 12.00
+< pinol 500ml > 7501025403027 14.50
+< pinol 828ml > 7501025403485 21
+< pinol 828ml > 7501025403904 21
+< pinol 828ml > 7501025400088 21
+< pinol 828ml > 7501025400156 21
+< pinol 828ml > 7501025403881 21
+< mayonesa 105g > 7501003300652 12.50
+< mayonesa 390g > 7501003340139 33
+< mayonesa 228g > 7501003303240 21
+< mermelada de fresa 270g > 7501003336125 20.50
+< mermelada de zarzamora 270gr > 
+< mostaza mccormick 260g > 7501003335128 21
+< cajeta coronado 310g > 074323088168 40
+< vaporub 12 g > 75916565 19
+< zote 400g > 7501026005671 16.50
+< zote 200g > 7501026005381 9
+< zote 200g > 7501026005688 9
+< saba clip  > 7501019006074 20
+< saba buenos dias > 7501019006371 21.50
+< kotex nocturna > 7501943418509 20
+< colgate triple accion econopack > 7509546080604 40
+< vanish barra 63g > 7501058714596 13.50
+< chocomilk 22g > 7506205802355 5
+< cafe legal soluble 10g > 7501052414027 10   
+< achiote 110g > 011848455570 12.50
+< raid laminitas > 7501032929770 2.50
+< knor tomate  > 7501005180504 6
+< pedigree cachorro 350g > 7506174504441 22
+< polvo para hornear royal 110g > 7501001030117 17
+< ariel 250g > 7501065908841 12
+< ariel 850g > 7500435120852 33
+< ariel 500g > 7501007455730 24
+< ariel liquido 400ml > 7500435139977 20
+< ariel liquido 700ml > 7500435139915 31
+< mas color 415ml > 7501199413006 20
+< mas color ropa oscura 415ml > 7501199412931 20
+< ace 400g > 7500435143585 20
+< blanca nieves 250g > 7501026027550 9
+< blanca nieves 500G > 7501026027543 18
+< foca 500g > 7501026026560 19
+< maestro limpio 1kg > 7506295348443 32
+< queso sello de oro 1kg > 128 
+< queso de puerco 1k > 104
+< dunup > 750132398606 11
+< crackets 139gr > 7500478015870 13.5
+< avena suelta 1kg > 26
+< saladitas > 14
+< gatorade 1L > 25
+< plato pastelero > 9
+< cuchara pastelera > 9
+< servilleta premier 450 > 099072101647 35 
+< aceite 123 500 ml > 75005443 23
+< aceite 123 1L > 75002343 42
+< aceite olivo 45ml > 7.50
+< vinagre manzana barrilito 750ml > 7501083100036 20.00
+< vinagre alcohol de caña blanco barrilito 750ml > 7501083100029 14.00
+< vinagre alcohol de caña negro barrilito 750ml > 7501083100012 14.00
+< queso amarillo Del Rancho 126 grs > 7501032601034 10.0
+< jamon de pavo kg > 104.0
+< jamon de pierna kg > 112.0
+< refresco 7up 600ml  > 7501022014585 13.0
+< refresco fanta 600 ml > 7501055303779 13.0
+< refresco fresca 600 ml > 7501055303786 13.0
+< refresco senzao guarana 600 ml > 7501055308330 13.0
+< refresco sprite 600 ml > 7501055305629 13.0
+< refresco prisco mundet 600 ml > 7501055345014 13.0
+< refresco delaware punch 600ml > 7501055304653 13.0
+< refreco sidral mundet 600ml > 7501055339983 13.0
+< ice tea Lipton durazno 600ml > 7501031304868 10.0
+< ice tea Lipton te verde 600ml > 7501031302376 10.0
+< jumex naranjada 600ml > 7501022010761 10.0
+< jumex limonada 600ml > 7501022013830 10.0
+< peñafiel natural 600ml > 7501073830509 13.0
+< peñafiel natural 1L > 7501073830028 16.0
+< peñafiel twist 600ml > 7501073831469 13.0
+< refreco orange crush 237ml > 7501198355703 6.0
+< predator energy 473ml > 0815154022705 15.0
+< coca cola 235ml > 7501055367498 10.0
+< coca cola lata 355ml > 7501055361540 14.0 
+< pepsi lata 295ml > 7501022008171 10.0
+< v8 340ml > 7501011320048 12.5
+< agua mineral schweppes > 7501073845046 8.0
+< jugo del valle 413ml > 032239052017 14.1
+< jumex mango 450ml > 7501013174038 12.5
+< refresco mirinda 355ml > 7501031345182 6.0
+< refresco squirt 355ml > 7501071120015 6.0
+< refresco manzanita sol 355ml > 7501031360307 6.0
+< refresco 7up 355ml > 7501022014066 6.0
+< vive 100 500ml > 7506192505918 13.0
+< vive 100 300ml > 7506192506854 10.0
+< clamato 296ml > 014800515312 15.0 
+< clamato 473ml > 014800000276 20.0
+< pepsi 355ml > 7501031311241 6.0
+< coca cola 400ml > 7501055328345 10.0
+< coca cola 250ml > 7501055355310 8.0
+< refresco fanta 1.35l > 7501055371754 15.0
+< refresco del valle frut 1.35l > 7501055375318 15.0
+< refresco sidral mundet 1.35l > 7501055371723 15.0
+< refresco fresca 1.35l > 7501055371747 15.0
+< refresco del valle 2 L > 7501055330461 24.0
+< refresco squirt 1.75L > 7501071122118 19.0
+< refresco coca cola 1.35L > 7501055371655 20.0
+< refresco coca cola 600ml > 75007614 14.0
+< refresco coca cola sin azucar 1.35L > 7501055371655 20.0
+< refresco squirt retornable 1.25L > 7501071122057 16.0
+< refresco manzanita sol  retornable 1.25L > 7501022014219 16.0
+< refresco pepsi  retornable 1.25L > 7501022014042 16.0
+< agua epura  600ml > 7501086801121 7.0
+< agua ciel gasificada 1.75L > 7501055321919 24.0
+< agua levite pepino-limon 1L > 75810400662 12.0
+< agua levite piña-coco 1L > 75810400652 12.0
+< agua levite fresa 1L > 75810400662 12.0
+< agua ciel 1.2L > 7501055343355 10.0
+< agua epura 1L > 7501086801046 10.0 
+< powerade 1L > 7501055317653 25.0
+< gatorade limonada 1L > 03673132200 25.0
+< gatorade uva 1L > 03673132400 25.0
+< refresco pepsi 600ml > 7501031310012 10.0
+< refresco pepsi 600ml > 7501022013052 10.0
+< maiz palomero kg > 36.0
+< alpiste kg > 30.0
+< pure de tomate del fuerte 345gr > 13.5
+< pure de tomate del fuerte 210gr > 8.5
+< tutsipop > 4.50
+< mazapan > 3.50
+< frescas > 14
+< Tostadas Charras 300 > 27
+< Wiskas 1kg > 46
+< maruchan > 12.50
+< azucar granel 22kg > 
+< pañal suavelastic XJ > 7.50
+< skwinkles > 8
+< mini snickers milks >
+< cafe ole > 26.50
+< yogurt plaser crunch > 13
+< queso oaxaca 1kg > 108
+< leche fresca 1lt > 22
+< canela legal > 8
+< huevo san juan 1kg > 38
+< liq. bonafont 20lt > 45
+< liq. bonafont 10lt > 45
+< Benegastro > 12
+< danup > 12
+< cereal mix > 11
+< danone licuado 450 > 20
+< danone natural 900 > 29
+< danone natural 120 > 5
+< danone lunch > 12
+< RedCola 600 > 10
+< RedCola 2lt > 10
+< RedCola 3lt > 10
+< dan mix vainilla > 18
+< skarch 10lt > 28
+< jarrito 600ml > 10
+< Cocacola 600ml > 14
+< Cocacola vidrio 1.25lt > 19 
+< Cocacola vidrio 500ml > 11
+< Cocacola vidrio 355ml > 6
+< jamon >
+< licuado nuez 220 >
+< sobre Wiskas > 11.50
+< oikos > 10
+< wiskas > 48
+< Dog chow adulto 1kg > 48
+< Dog chow cachorro 1kg > 54
+< azucar > 22 
+< sopa knor 95 > 12
+< chicle orbit > 2.5
+< tubos m&m > 15
+< tubi papas sol > 15
+< tubi rusa sol > 19
+< veladora luz eterna > 18
+< queso panela 1kg > 100
+< maiz quebrado 1kg > 14
+< Agua epura 2L> 14

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MiscelaneaDonPancho</string>
+    <string name="boton_checador">Checador de precios</string>
+    <string name="boton_tickets">Tickets</string>
+    <string name="boton_proveedores">Proveedores</string>
+    <string name="boton_productos">Prductos</string>
+    <string name="boton_nuevoProv">Nuevo Proveedor</string>
+    <string name="boton_Cancelar">Cancelar</string>
+    <string name="Agregar">Agregar</string>
+    <string name="hint_Nombre">Nombre</string>
+    <string name="hint_CDB">Codigo de Barras</string>
+    <string name="hint_Precio">Precio</string>
+    <string name="hitn_Costo">Costo</string>
+    <string name="boton_cambiar">Cambiar</string>
+    <string name="boton_limpiar">Limpiar</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="boton_Editar">Cambiar</string>
+    <string name="boton_borrar">Borrar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

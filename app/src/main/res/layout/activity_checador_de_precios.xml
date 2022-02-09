@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <AutoCompleteTextView
+        android:id="@+id/producto"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:hint="Nombre"
+        android:textSize="34sp"
+        android:textAlignment="center"
+        />
+    <EditText
+        android:id="@+id/codigo_de_barras"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Codigo De Barras"
+        android:inputType="textPersonName"
+        android:maxHeight="20dp"
+        android:minHeight="15dp"
+        android:textSize="34sp"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/Precio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_Precio"
+        android:textAlignment="center"
+        android:textSize="96sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="editarProd"
+            android:text="@string/boton_cambiar" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/boton_limpiar"
+            android:onClick="Limpiar"/>
+    </LinearLayout>
+
+
+
+</LinearLayout>

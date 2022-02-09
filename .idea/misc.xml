@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/okey-/AndroidStudioProjects/MiscelaneaDonPancho/app/src/main/res/layout/activity_agregar_producto.xml" value="0.25" />
+        <entry key="..\:/Users/okey-/AndroidStudioProjects/MiscelaneaDonPancho/app/src/main/res/layout/activity_checador_de_precios.xml" value="0.22" />
+        <entry key="..\:/Users/okey-/AndroidStudioProjects/MiscelaneaDonPancho/app/src/main/res/layout/activity_editar_prod.xml" value="0.15" />
+        <entry key="..\:/Users/okey-/AndroidStudioProjects/MiscelaneaDonPancho/app/src/main/res/layout/activity_editar_prod2.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/okey-/AndroidStudioProjects/MiscelaneaDonPancho/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/okey-/AndroidStudioProjects/MiscelaneaDonPancho/app/src/main/res/layout/activity_main2.xml" value="0.16" />
+        <entry key="..\:/Users/okey-/AndroidStudioProjects/MiscelaneaDonPancho/app/src/main/res/layout/activity_registro_productos.xml" value="0.2" />
+        <entry key="..\:/Users/okey-/AndroidStudioProjects/MiscelaneaDonPancho/app/src/main/res/layout/activity_registro_proveedores.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/okey-/AndroidStudioProjects/MiscelaneaDonPancho/app/src/main/res/layout/activity_registro_tickets.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/okey-/AndroidStudioProjects/MiscelaneaDonPancho/app/src/main/res/layout/content_main.xml" value="0.12364130434782608" />
+        <entry key="..\:/Users/okey-/AndroidStudioProjects/MiscelaneaDonPancho/app/src/main/res/layout/fragment_first.xml" value="0.12364130434782608" />
+        <entry key="..\:/Users/okey-/AndroidStudioProjects/MiscelaneaDonPancho/app/src/main/res/layout/fragment_second.xml" value="0.12364130434782608" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
